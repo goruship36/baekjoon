@@ -6,4 +6,4 @@ for i in range(len(origin)):
 for j in origin: #for 문으로 출력
     print(j, end =" ")
 
-#edit in master 22-09-25 17:51
+#holy-moly 브랜치에서 작성한 주석 22-09-25 17:49
