@@ -5,3 +5,5 @@ for i in range(len(origin)):
     origin[i]-=now[i]
 for j in origin: #for 문으로 출력
     print(j, end =" ")
+    
+#holy-moly 브랜치에서 작성한 주석 22-09-25 17:49
